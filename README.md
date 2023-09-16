@@ -55,13 +55,13 @@ $ git clone https://github.com/Azim-Vau/FBGAC.git
 #### RUN SCRIPT
 ```python
 $ cd FBGAC
-$ run.py
+$ python3 run.py
 ```
 
 #### [~] SINGLE COMMAND
 
 ```python
-apt update -y ; apt upgrade -y ; apt install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/FBGAC ; cd FBGAC ; run.py
+apt update -y ; apt upgrade -y ; apt install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/FBGAC ; cd FBGAC ; python3 run.py
 ```
 
 
